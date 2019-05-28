@@ -1,3 +1,11 @@
+===========================================================================================
+
+BSSE: An open-source image processing tool for miniaturized microscopy % 
+Jeonghwan Son, Biagio Mandracchia, Michael D. Caponegro, Stella E. Tsirka, Shu Jia %
+Optics Express (2019) %
+
+===========================================================================================
+
 1. BSSE_Matlab
 ----------------------------------------------------------------------------------------------------------------
 Initiate BSSE by 'BSSE_InitiateHere.m'
